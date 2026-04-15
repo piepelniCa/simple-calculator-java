@@ -1,5 +1,4 @@
 # Simple Calculator (Java)
-
 A basic console calculator built in Java.
 
 ## Features
